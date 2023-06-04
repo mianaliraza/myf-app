@@ -1,0 +1,40 @@
+1.create user and email cmd
+git config --global user.name AliRaza
+git config --global user.name
+git config --global user.email maraza3524@gmail.com
+git config --global user.email
+
+2.open vscode cmd
+code .
+
+3.intial git repositry
+git init
+
+4.show hidden floders
+ls -lart
+5.create file 
+touch index.html
+6.check modified status of file
+git status
+
+7.add one file in modified form
+git add index.html(file name)
+
+8.add All file in modified status
+git add -A
+
+9.
+
+10.
+
+11.
+
+12.
+
+13.
+
+14.
+15.
+
+
+
