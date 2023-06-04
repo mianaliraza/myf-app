@@ -24,7 +24,7 @@ git add index.html(file name)
 
 8.add All file in modified status
 git add -A
-
+ 
 9.All file in global commit
 git commit -m "Add files"
 
