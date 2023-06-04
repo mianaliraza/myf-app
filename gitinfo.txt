@@ -53,6 +53,21 @@ git rm del.htm(file name)
 17.All Info of file status (staged,modified,unmodified)
 git status -s
 
+18.Create Branch 
+git branch duplicate(name)
+
+19.Switch the branch
+git checkout duplicate(name create)
+
+20.Create a branch and Switch Branch automatically
+git checkout -b newbranch(name branch) 
+
+21.
+
+22.
+23.
+24.
+
 18.
 19.
 20.
