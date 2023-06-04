@@ -50,7 +50,8 @@ git rm --cached del.htm(file name)
 16.remove the file properly
 git rm del.htm(file name)
 
-17.
+17.All Info of file status (staged,modified,unmodified)
+git status -s
 
 18.
 19.
