@@ -12,8 +12,10 @@ git init
 
 4.show hidden floders
 ls -lart
+
 5.create file 
 touch index.html
+
 6.check modified status of file
 git status
 
@@ -23,18 +25,37 @@ git add index.html(file name)
 8.add All file in modified status
 git add -A
 
-9.
+9.All file in global commit
+git commit -m "Add files"
 
-10.
+10.modified bychance to retrive only one by one file
+(file will retrive the file are not add in git because file data lose)
+git checkout about.html(file name)
 
-11.
+11.Modified All retrive in one cmd
+git checkout -f
 
-12.
+12.show all the comments
+git log
 
-13.
+13.Show First 2 comments or differernt
+git log -p -2
 
-14.
-15.
+14.changed in file but not add in git the changes are showed
+git diff
+
+15.The file is not full deleted
+git rm --cached del.htm(file name)
+
+16.remove the file properly
+git rm del.htm(file name)
+
+17.
+
+18.
+19.
+20.
+
 
 
 
